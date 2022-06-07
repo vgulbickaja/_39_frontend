@@ -10,3 +10,5 @@ git config --global user.name "Violeta"
 git config --global user.email "v.gulbickaja@gmail.com"
 
 something entirely new
+
+something new, just in case
